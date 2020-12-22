@@ -20,8 +20,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Kochbuch'
-copyright = '2020, Tobias R'
-author = 'Tobias R'
+copyright = '2020, Tobias'
+author = 'Tobias'
 
 
 # -- General configuration ---------------------------------------------------
@@ -60,3 +60,7 @@ html_theme = "sphinx_rtd_theme"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+html_theme_options = {
+    'navigation_depth': 2
+}

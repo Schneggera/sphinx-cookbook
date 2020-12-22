@@ -8,7 +8,6 @@ Willkommen bei meinem kleinen Kochbuch!
 
 .. toctree::
    :maxdepth: 1
-   :titlesonly:
    :caption: Inhalt:
 
    starter
