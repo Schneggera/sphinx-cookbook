@@ -64,3 +64,38 @@ Zubereitung
 ~~~~~~~~~~~~~
 Alles in einem Topf verrühren und leicht erwärmen, damit sich die Zutaten
 besser verbinden
+
+---------------
+
+Chili - Honig - Grillsauce
+---------------------------
+
+Zutaten
+~~~~~~~~
+Dauer: 10min Portionen: 1
+
++-------+-----------------------------------------------------------------+
+| 150 g | Tomatenketchup                                                  |
++-------+-----------------------------------------------------------------+
+|  1 TL | Honig (Waldhonig)                                               |
++-------+-----------------------------------------------------------------+
+|  3 TL | Petersilie, frisch, gehackt                                     |
++-------+-----------------------------------------------------------------+
+|  ½ TL | Zitronenpfeffer                                                 |
++-------+-----------------------------------------------------------------+
+|  1 TL | Knoblauch, Paste oder sehr fein gehackt                         |
++-------+-----------------------------------------------------------------+
+|  ½ TL | Gewürz(e) (Gunpowder, ersatzweise 1-1,5 TL Chilipulver, scharf) |
++-------+-----------------------------------------------------------------+
+|  1 TL | Currypulver                                                     |
++-------+-----------------------------------------------------------------+
+|  1 TL | Ajvar, scharf                                                   |
++-------+-----------------------------------------------------------------+
+
+Zubereitung
+~~~~~~~~~~~
+
+Ketchup und Honig sehr gut miteinander glatt rühren. Nach und nach Petersilie,
+Gewürze und Ajvar einrühren. Bis zum Verzehr kalt stellen.
+
+.. Hint::  0,5 Schalotten schälen, fein hacken und hinzugeben.

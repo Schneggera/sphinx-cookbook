@@ -16,6 +16,8 @@ Willkommen bei meinem kleinen Kochbuch!
    dessert
    sauce
    spread
+   drinksalk
+   drinks
 
 
 Indices and tables
