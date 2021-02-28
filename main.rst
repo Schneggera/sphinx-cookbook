@@ -124,3 +124,61 @@ Zubereitung
    Schnittlauch und Lauchzwiebeln bestreuen.
 
 ------------
+
+Quiche
+-------
+
+Zutaten
+~~~~~~~~
+Dauer: 80 min Portionen: 2
+
++--------------------------------------+
+| FÜR 1 QUICHE MIT Ø 28 CM DURCHMESSER |
++-------------+------------------------+
+| 1 Stange    | Lauch                  |
++-------------+------------------------+
+| 1           | Zwiebel                |
++-------------+------------------------+
+| 1           | Knoblauchzehe          |
++-------------+------------------------+
+| 100 Gramm   | Wacholderschinken      |
++-------------+------------------------+
+| 2 Esslöffel | Olivenöl               |
++-------------+------------------------+
+| 3           | Eier (Größe M)         |
++-------------+------------------------+
+| 150 Gramm   | Sahne (30 % Fett)      |
++-------------+------------------------+
+|             | Salz                   |
++-------------+------------------------+
+|             | Pfeffer                |
++-------------+------------------------+
+|             | Muskatnuss             |
++-------------+------------------------+
+|             | Quicheteig (Kühlregal) |
++-------------+------------------------+
+
+Zubereitung
+~~~~~~~~~~~~
+
+1. Backofen vorheizen (180°C Ober-/Unterhitze). Lauch in Scheiben
+   schneiden, Strunk entsorgen. Gegebenenfalls den oberen Teil des Lauches unter
+   fließendem Wasser waschen und in einem Sieb abtropfen lassen.
+
+#. Öl in einer Pfanne auf höchster Stufe erhitzen, Lauch darin 4–5 Min.
+   anschwitzen. Zwiebel und Knoblauch schälen, jeweils in feine Scheiben schneiden
+   und in die Pfanne geben. Mit Salz abschmecken. Anschließend Schinken in Streifen
+   schneiden, in die Pfanne geben und Herdplatte ausschalten.
+
+#. Eier und Sahne in einer Schüssel mit einem Schneebesen vermengen und
+   ebenfalls mit Salz, Pfeffer und Muskat würzen.
+
+#. Tarteform ( Ø 28﻿ cm) fetten und mehlieren. Anschließend Quicheteig
+   in die Form legen und vorsichtig in die Ecken drücken. Dazu am besten das
+   Backpapier am Teig lassen und mit der Teigseite nach unten in die Form drücken.
+   Backpapier entfernen und nun mit einem Messerrücken über den Rand der Form
+   fahren, um den überschüssigen Teig zu entfernen.
+
+#. Lauch-Schinken-Masse gleichmäßig auf dem Teig verteilen.
+   Ei-Sahne-Masse darübergießen und ca. 35 Min. auf mittlerer Schiene in den Ofen
+   schieben.
