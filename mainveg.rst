@@ -428,3 +428,34 @@ Zubereitung
 
 #. Pfannkuchen samt Back­papier vom Blech ziehen. Von der langen Seite her
    aufrollen und in Stücke schneiden. Mit dem Kräuterschmand servieren.
+
+---------
+
+Tofu a la Polenta
+-----------------------------------
+
+Zutaten
+~~~~~~~~
+
++-------+---------------------------+
+| 200g  | Tofu                      |
++-------+---------------------------+
+| 25g   | Sojasauce                 |
++-------+---------------------------+
+| 25g   | Brühe                     |
++-------+---------------------------+
+| 2EL   | Agavendicksaft/Ahornsirup |
++-------+---------------------------+
+| 0,5TL | Speisestärke              |
++-------+---------------------------+
+|       | Paprikapulver             |
++-------+---------------------------+
+|       | Knoblauchpulver           |
++-------+---------------------------+
+
+Zubereitung
+~~~~~~~~~~~~
+
+1. Tofu für 5-8 min anbraten
+   
+#. Marinade zubereiten und über den Tofu geben
