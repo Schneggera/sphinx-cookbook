@@ -173,7 +173,7 @@ Zubereitung
 #. Eier und Sahne in einer Schüssel mit einem Schneebesen vermengen und
    ebenfalls mit Salz, Pfeffer und Muskat würzen.
 
-#. Tarteform ( Ø 28﻿ cm) fetten und mehlieren. Anschließend Quicheteig
+#. Tarteform ( Ø 28 cm) fetten und mehlieren. Anschließend Quicheteig
    in die Form legen und vorsichtig in die Ecken drücken. Dazu am besten das
    Backpapier am Teig lassen und mit der Teigseite nach unten in die Form drücken.
    Backpapier entfernen und nun mit einem Messerrücken über den Rand der Form
@@ -182,3 +182,48 @@ Zubereitung
 #. Lauch-Schinken-Masse gleichmäßig auf dem Teig verteilen.
    Ei-Sahne-Masse darübergießen und ca. 35 Min. auf mittlerer Schiene in den Ofen
    schieben.
+
+Pikante Fetapäckchen
+---------------------
+
+Zutaten
+~~~~~~~~
+Dauer: 25 min
+
++-------+----------------------+
+| Menge | Zutat                |
++-------+----------------------+
+| 200 g | Feta                 |
++-------+----------------------+
+| 80 g  | Aoste Ring-Salami    |
++-------+----------------------+
+| 100 g | Cherrytomaten        |
++-------+----------------------+
+| 50 g  | eingelegte Peperoni  |
++-------+----------------------+
+| 0,5   | rote Zwiebel         |
++-------+----------------------+
+| 1     | Knoblauchzehe        |
++-------+----------------------+
+| 2 EL  | Olivenöl             |
++-------+----------------------+
+|       | Salz                 |
++-------+----------------------+
+|       | Pfeffer              |
++-------+----------------------+
+|       | Oregano              |
++-------+----------------------+
+|       | Etwas Baguette       |
++-------+----------------------+
+
+
+Zubereitung
+~~~~~~~~~~~~
+
+1. Backofen auf 200°C Ober-/Unterhitze vorheizen.
+#. Feta auf ein großes Stück Backpapier legen.
+#. Salamischeiben, Cherrytomaten, Peperoni, kleingeschnittene Zwiebel und gehackten Knoblauch darauf verteilen.
+#. Mit Salz, Pfeffer und Oregano würzen, dann mit Olivenöl beträufeln.
+#. Das Backpapier zu einem kleinen Päckchen verschließen.
+#. Das Fetapäckchen auf ein Backblech legen und ca. 25 Minuten im Ofen backen.
+#. Mit Baguette servieren und genießen.
