@@ -489,3 +489,65 @@ Zubereitung
 ~~~~~~~~~~~~
 
 Alles in einen Topf geben und solange kochen, wie auf den Dumplings steht.
+
+---------
+
+
+Vegane Tantanmen – cremig-scharfe Ramen
+----------------------------------------
+
+Zubereitungszeit: 20 Minuten
+
+Zutaten
+~~~~~~~~
++--------------+----------------------------+
+| 200 g        | Ramennudeln                |
++--------------+----------------------------+
+
+Für die Brühe
+~~~~~~~~~~~~~
++--------------+----------------------------+
+| 500 ml       | Pilzbrühe oder Gemüsebrühe |
++--------------+----------------------------+
+| 1 Stück      | Kombu (ca. 4 x 4 cm, optional) |
++--------------+----------------------------+
+| 250 ml       | Barista-Hafermilch         |
++--------------+----------------------------+
+
+Für die Toppings
+~~~~~~~~~~~~~~~~
++--------------+----------------------------+
+| 200 g        | Tofu                       |
++--------------+----------------------------+
+| 120 g        | Champignons                |
++--------------+----------------------------+
+| 2            | Frühlingszwiebeln          |
++--------------+----------------------------+
+| 1 EL         | Erdnussöl oder Rapsöl      |
++--------------+----------------------------+
+| 4 EL         | Mais aus der Dose          |
++--------------+----------------------------+
+
+Für die Tare
+~~~~~~~~~~~~
++--------------+----------------------------+
+| 3 EL         | Erdnussmus                 |
++--------------+----------------------------+
+| 3 EL         | Sojasauce                  |
++--------------+----------------------------+
+| 2 EL         | Reisessig oder Tafelessig  |
++--------------+----------------------------+
+| 4 TL         | Chiliöl (je nach Geschmack)|
++--------------+----------------------------+
+| 1/2 TL       | Sesamöl (optional)         |
++--------------+----------------------------+
+
+Zubereitung
+~~~~~~~~~~~
+1. Nudeln nach Packungsanweisung kochen. Anschließend abgießen und kurz unter kaltem Wasser abschrecken.
+#. Für die Brühe Pilz- oder Gemüsebrühe zusammen mit dem Stück Kombu in einen Topf geben und bei niedriger bis mittlerer Hitze langsam erhitzen. Sobald das Wasser anfängt zu köcheln, Kombu entfernen. Barista-Hafermilch einrühren und knapp unter dem Siedepunkt bei weiterhin niedriger bis mittlerer Hitze heiß halten.
+#. Währenddessen Tofu in etwa 1 cm dicke Stücke schneiden, Champignons in dünne Scheiben und Frühlingszwiebeln in Ringe schneiden. Öl in eine heiße Pfanne geben, Tofu, Champignons und den weißen Teil der Frühlingszwiebel bei mittlerer bis hoher Hitze etwa 5 Minuten goldbraun braten. Alternativ den Tofu ohne Öl bei 180 °C im Airfryer rösten.
+#. Für die Tare je 1 ½ EL Erdnussmus, 1 ½ EL Sojasauce, 1 EL Reisessig, 2 TL Chiliöl und ein paar Tropfen Sesamöl in tiefen Schüsseln verrühren.
+#. Zum Servieren je etwa 4 Schöpfkellen der Brühe in eine Schüssel geben und gut mit der Tare verrühren. Nudeln optional im Sieb erneut mit heißem Wasser überbrühen und auf die Schüsseln verteilen. Mit Champignons, Tofuscheiben, Mais und dem grünen Teil der Frühlingszwiebel toppen und sofort servieren.
+
+-------

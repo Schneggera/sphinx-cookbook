@@ -9,33 +9,37 @@ Zutaten
 
 Dauer: 35 min Portionen: 4
 
-+---------+--------------------+
-| 2 Stk   | frische Rote Bete  |
-+---------+--------------------+
-| 100 g   | Rucola             |
-+---------+--------------------+
-| 4 Stk   | Karotte            |
-+---------+--------------------+
-| 4 Stk   | lila Karotte       |
-+---------+--------------------+
-| 400 g   | Halloumi           |
-+---------+--------------------+
-| 20 g    | Petersilie/Thymian |
-+---------+--------------------+
-| 2 Dosen | braune Linsen      |
-+---------+--------------------+
-| 150 g   | Joghurt            |
-+---------+--------------------+
-| 24 ml   | Balsamico-Essig    |
-+---------+--------------------+
-| 20 g    | Haselnüsse         |
-+---------+--------------------+
-| 24 ml   | Balsamico-Creme    |
-+---------+--------------------+
-| 2 EL    | Öl                 |
-+---------+--------------------+
-|         | Salz, Pfeffer      |
-+---------+--------------------+
++--------------+----------------------------+
+| 250 g        | Seehecht                   |
+|              | (Enthält Fisch)            |
++--------------+----------------------------+
+| 400 g        | vorw. festk. Kartoffeln    |
++--------------+----------------------------+
+| 75 g         | Babyspinat                 |
++--------------+----------------------------+
+| 150 g        | Kochsahne                  |
+|              | (Enthält Milch             |
+|              | (einschließlich Laktose))  |
++--------------+----------------------------+
+| 20 g         | geriebener Hartkäse        |
+|              | (Enthält Milch             |
+|              | (einschließlich Laktose),  |
+|              | Eier)                      |
++--------------+----------------------------+
+| 25 g         | Semmelbrösel               |
+|              | (Enthält Weizen)           |
++--------------+----------------------------+
+| 4 g          | Gemüsebrühe                |
+|              | (Enthält Sellerie)         |
++--------------+----------------------------+
+| 50 ml        | Wasser                     |
++--------------+----------------------------+
+| 1 EL         | Olivenöl                   |
++--------------+----------------------------+
+| nach Geschmack| Salz                      |
++--------------+----------------------------+
+| nach Geschmack| Pfeffer                   |
++--------------+----------------------------+
 
 Zubereitung
 ~~~~~~~~~~~~
@@ -183,6 +187,8 @@ Zubereitung
    Ei-Sahne-Masse darübergießen und ca. 35 Min. auf mittlerer Schiene in den Ofen
    schieben.
 
+------------
+
 Pikante Fetapäckchen
 ---------------------
 
@@ -227,3 +233,54 @@ Zubereitung
 #. Das Backpapier zu einem kleinen Päckchen verschließen.
 #. Das Fetapäckchen auf ein Backblech legen und ca. 25 Minuten im Ofen backen.
 #. Mit Baguette servieren und genießen.
+
+------------
+
+Herbstpasta mit Pilzen, Salsiccia und Kastanien
+-------
+
+Zutaten
+~~~~~~~~
+
+Portionen: 4
+
++-------------------------------------+
+| Zutaten für 4 Personen:             |
++-------------+-----------------------+
+| 200 g       | vorgekochte geschälte |
+|             | Maronen               |
++-------------+-----------------------+
+| 300 g       | Steinpilze (oder eine |
+|             | andere Pilzart)       |
++-------------+-----------------------+
+| 300 g       | Salsiccia             |
++-------------+-----------------------+
+| etwas       | Olivenöl              |
++-------------+-----------------------+
+| 1           | Knoblauchzehe         |
++-------------+-----------------------+
+| ein paar    | EL Weißwein           |
++-------------+-----------------------+
+|             | Salz                  |
++-------------+-----------------------+
+| 2 EL        | gehackte Petersilie   |
++-------------+-----------------------+
+| 320 g       | kurze Vollkornpasta   |
++-------------+-----------------------+
+|             | schwarzer Pfeffer     |
++-------------+-----------------------+
+
+Zubereitung
+~~~~~~~~~~~~
+
+1. Maronen mit den Fingern zerkrümehlieren
+#. Pilze putzen und in Scheiben schneiden
+#. Salsiccia aus der Pelle drücken und grob hacken
+#. Knoblauch schälen (nicht schneiden) und in einer Pfanne mit Olivenöl anbraten
+#. Salsiccia darin anbraten
+#. Wenn alles eine braune Farbe hat, Knoblauch entfernen
+#. Weißwein hinzugeben und einkochen lassen
+#. Pilze hinzugeben, salzen und einige Minuten andünsten
+#. Maronen und Petersilie hinzugeben und alles gut vermischen
+#. gekochte Pasta hinzugeben und vermengen
+#. Mit schwarzem Pfeffer abschmecken und einige Minuten ziehen lassen
