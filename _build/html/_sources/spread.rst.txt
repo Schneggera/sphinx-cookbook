@@ -178,3 +178,33 @@ Paprikaaufstrich
 +------+-----------------------+
 |      | nach belieben Kräuter |
 +------+-----------------------+
+
+
+Dauer: 10 min Portionen: ca. 300 g
+
++------------+----------------------------------------------------------+
+| 100g       | Naturtofu (z.B. von Taifun Tofu)                         |
++------------+----------------------------------------------------------+
+| 150g       | veganer Frischkäse                                       |
++------------+----------------------------------------------------------+
+| 2 TL       | Currypulver                                              |
++------------+----------------------------------------------------------+
+| 6          | entsteinte Datteln                                       |
++------------+----------------------------------------------------------+
+|            | frischer Zitronensaft                                    |
++------------+----------------------------------------------------------+
+|            | Salz                                                     |
++------------+----------------------------------------------------------+
+|            | Pfeffer                                                  |
++------------+----------------------------------------------------------+
+
+
+Veganer Curry-Dattel-Aufstrich
+-------------------------------
+
+Zubereitung
+~~~~~~~~~~~~~
+
+1. Naturtofu, veganen Frischkäse und Currypulver in ein hohes Gefäß geben und pürieren.
+
+#. Die Datteln fein würfeln und unterheben. Den Dip mit frischem Zitronensaft, Salz und Pfeffer abschmecken.
